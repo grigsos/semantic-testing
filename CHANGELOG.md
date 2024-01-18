@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/grigsos/semantic-testing/compare/v1.0.0...v1.0.1) (2024-01-18)
+
+
+### Bug Fixes
+
+* **releaserc:** change in branch names or something ([4642c85](https://github.com/grigsos/semantic-testing/commit/4642c855f993dad1554c00e76870a4e3aa66f829))
+
 # 1.0.0 (2024-01-18)
 
 
