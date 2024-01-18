@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/grigsos/semantic-testing/compare/v1.0.1...v2.0.0) (2024-01-18)
+
+
+### Documentation
+
+* **greg_best:** this should be major ([daaf50e](https://github.com/grigsos/semantic-testing/commit/daaf50e11d74a8de628fe9d7890112b01e72a457))
+
+
+### BREAKING CHANGES
+
+* **greg_best:** i think i win
+
 ## [1.0.1](https://github.com/grigsos/semantic-testing/compare/v1.0.0...v1.0.1) (2024-01-18)
 
 
