@@ -4,6 +4,7 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "github:semantic-release/changelog",
+    "@semantic-release/git": "github:semantic-release/git",
     "@semantic-release/release-notes-generator": "github:semantic-release/release-notes-generator"
   }
 }
