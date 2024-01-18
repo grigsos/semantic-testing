@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@semantic-release/commit-analyzer": "github:semantic-release/commit-analyzer"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "github:semantic-release/changelog",
+    "@semantic-release/release-notes-generator": "github:semantic-release/release-notes-generator"
+  }
+}
